@@ -13,4 +13,8 @@ For å kjøre dette prosjektet lokalt må du først clone repoen
 ```
 Deretter åpner do repoen i vscode eller lignende og opner html dokumentet i ein netleser
 
+## Credits
+
+- Brian
+
 
