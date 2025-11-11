@@ -18,5 +18,6 @@ Deretter åpner do repoen i vscode eller lignende og opner html dokumentet i ein
 - Brian
 - André
 - Brian2
+- André2
 
 
