@@ -15,8 +15,8 @@ Deretter åpner do repoen i vscode eller lignende og opner html dokumentet i ein
 
 ## Credits
 
-- André ඞ
-- Brian ඞ
-- Elvar ඞ
-- Arthur ඞ
-- Izzy ඞ
+- André 
+- Brian 
+- Elvar 
+- Arthur 
+- Izzy 
