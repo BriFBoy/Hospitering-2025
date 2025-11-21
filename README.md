@@ -24,3 +24,4 @@ Deretter åpner do repoen i vscode eller lignende og opner html dokumentet i ein
 - Oliwer
 - Yegor
 - Aida
+- Snart helg
