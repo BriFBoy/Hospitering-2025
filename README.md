@@ -23,3 +23,4 @@ Deretter åpner do repoen i vscode eller lignende og opner html dokumentet i ein
 - izzy
 - Oliwer
 - Yegor
+- Aida
